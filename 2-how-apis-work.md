@@ -14,4 +14,4 @@ When you type a URL, you're using an API. Here's a typical flow:
       "name": "Example",
       "value": 42
    }
-[Previous: What is an API?](2-how-apis-work.md) | [Next: Using an API](3-using-an-api.md)
+[Previous: What is an API?](1-what-is-an-api.md) | [Next: Using an API](3-using-an-api.md)
